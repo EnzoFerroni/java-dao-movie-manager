@@ -39,8 +39,8 @@ data is discarded when the program exits.
 Requirements: JDK 17.
 
 ```bash
-git clone https://github.com/EnzoFerroni/DAO.git
-cd DAO/ProjetoDAO/GerneciadorNomes
+git clone https://github.com/EnzoFerroni/java-dao-movie-manager.git
+cd java-dao-movie-manager/ProjetoDAO/GerneciadorNomes
 ./mvnw compile exec:java -Dexec.mainClass=br.mackenzie.ps2.bobana.GerneciadorNomes.GerenciadorDeFilmes
 ```
 
